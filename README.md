@@ -23,7 +23,7 @@ python setup.py install
 Alternatively, refer to [this Medium article](https://medium.com/@kegui/how-to-install-keras-contrib-7b75334ab742) for more installation options.
 
 ## Data Augmentation
-Begin by performing data augmentation on the sketch dataset to enhance the training quality. Use the provided [notebook](sketch/sketch-image/Data Augmentation.ipynb) to apply data transformations.
+Begin by performing data augmentation on the sketch dataset to enhance the training quality. Use the provided [notebook](https://github.com/gauthamnholla/Sketch-to-Image-via-Neural-Network-/blob/main/sketch/sketch-image/Data%20Augmentation.ipynb) to apply data transformations.
 
 ## Training the GAN Model
 Use the provided notebook to start training the GAN model for face sketch-to-image transformation.
