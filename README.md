@@ -26,7 +26,7 @@ Alternatively, refer to [this Medium article](https://medium.com/@kegui/how-to-i
 Begin by performing data augmentation on the sketch dataset to enhance the training quality. Use the provided [notebook](https://github.com/gauthamnholla/Sketch-to-Image-via-Neural-Network-/blob/main/sketch/sketch-image/Data%20Augmentation.ipynb) to apply data transformations.
 
 ## Training the GAN Model
-Use the provided notebook to start training the GAN model for face sketch-to-image transformation.
+Use the provided [notebook](https://github.com/gauthamnholla/Sketch-to-Image-via-Neural-Network-/blob/main/sketch/sketch-image/ContextualGAN.ipynb) to start training the GAN model for face sketch-to-image transformation.
 
 ## Performance Evaluation
 Measure the model’s performance by calculating:
