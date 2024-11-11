@@ -34,10 +34,10 @@ Measure the model’s performance by calculating:
 1. **SSIM (Structural Similarity Index)**: Measures the similarity between the generated image and the ground truth.
 2. **Verification Accuracy (L2-norm)**: Measures the verification accuracy of the generated images.
 
-Refer to the performance measurement notebook for instructions on how to calculate these metrics.
+Refer to the performance measurement [notebook](https://github.com/gauthamnholla/Sketch-to-Image-via-Neural-Network-/blob/main/sketch/sketch-image/Compute%20SSIM%20and%20L2-norm.ipynb) for instructions on how to calculate these metrics.
 
 ## Testing
-To generate a single image from a sketch, use the testing notebook.
+To generate a single image from a sketch, use the testing [notebook](https://github.com/gauthamnholla/Sketch-to-Image-via-Neural-Network-/blob/main/sketch/sketch-image/Testing.ipynb).
 
 ## References
 This project draws on key works in face photo-sketch synthesis and recognition:
